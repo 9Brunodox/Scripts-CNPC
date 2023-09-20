@@ -6,9 +6,8 @@ Alguns scripts feitos para ajudar na mecânica de meu servidor no minecraft, fei
 
 ## Projetos:
 
-- 
-- 
-- 
+- [Python](https://github.com/9Brunodox/Scripts-CNPC/tree/main/Python/1.12.2)
+- [JavaScript](https://github.com/9Brunodox/Scripts-CNPC/tree/main/JS/1.12.2)
 
 ## :satisfied: Stacks utilizadas
 
